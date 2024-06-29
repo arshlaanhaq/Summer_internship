@@ -1,0 +1,16 @@
+{
+  "name": "week_6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app6.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.4.4",
+    "nodemon": "^3.1.4"
+  }
+}
